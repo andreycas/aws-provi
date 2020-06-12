@@ -1,4 +1,4 @@
-# aws-provi
+# AWS-provisioning
 aprovisionamientos instancias AWS
 # Basic EC2 instance
 
